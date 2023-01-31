@@ -15,4 +15,4 @@
 
 - [A short note about list comprehensions that will be needed in NLP](https://github.com/zubeydeulukok/NLP/blob/main/List_Comprehension.ipynb)
 # NLP Fundamentals
-1. [Data Cleaning and Vectorization]()
+1. [Data Cleaning and Vectorization](https://github.com/zubeydeulukok/NLP/tree/main/Data%20Cleaning%20and%20Vectorization)
