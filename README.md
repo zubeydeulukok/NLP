@@ -14,3 +14,5 @@
 - [Notes on the regex we will need when cleaning data in NLP](https://github.com/zubeydeulukok/NLP/blob/main/3.f.Regex_Note.py)
 
 - [A short note about list comprehensions that will be needed in NLP](https://github.com/zubeydeulukok/NLP/blob/main/List_Comprehension.ipynb)
+# NLP Fundamentals
+1. [Data Cleaning and Vectorization]()
